@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   - BDD on Gherkin
   - Pulumi
   - AWS Infra
+  - Docker
 
 🌱 I’m currently learning stuff to pass the AWS Data Engineer - Associate certification  
 
