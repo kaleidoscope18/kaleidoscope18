@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🌸 I am opening myself up to new opportunities. Starting to making my repos public as well.
 
 🔭 I’m currently working on a personal finance project using following techs:
   - Go
