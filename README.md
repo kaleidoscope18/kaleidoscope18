@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌸 I am opening myself up to new opportunities. Starting to making my repos public as well.
+🌸 Starting to making my repos public to share the dev love.
 
 🔭 I’m currently working on a personal finance project using following techs:
   - Go
@@ -24,6 +24,6 @@ Here are some ideas to get you started:
   - AWS Infra
   - Docker
 
-🌱 I’m currently learning stuff to pass the AWS Data Engineer - Associate certification  
+🌱 I’m always learning and growing.
 
 Love to all devs ❤️
