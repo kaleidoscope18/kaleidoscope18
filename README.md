@@ -14,15 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌸 Starting to making my repos public to share the dev love.
+🌸 Hi!
 
 🔭 I’m currently working on a personal finance project using following techs:
   - Go
   - GraphQL API
-  - BDD on Gherkin
-  - Pulumi
-  - AWS Infra
-  - Docker
+  - BDD with Cucumber
+  - Supabase
 
 🌱 I’m always learning and growing.
 
