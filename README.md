@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **kaleidoscope18/kaleidoscope18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,12 +14,6 @@ Here are some ideas to get you started:
 -->
 🌸 Hi!
 
-🔭 I’m currently working on a personal finance project using following techs:
-  - Go
-  - GraphQL API
-  - BDD with Cucumber
-  - Supabase
+🌱 Keep learning and growing.
 
-🌱 I’m always learning and growing.
-
-Love to all devs ❤️
+Love ❤️
